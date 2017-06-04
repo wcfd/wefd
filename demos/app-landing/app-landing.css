@@ -39,11 +39,11 @@
 
 	#header:not(.sticky-header) #primary-menu > ul > li.menu-item-emphasis > a:hover {
 		background-color: #FFF;
-		color: #267DF4 !important;
+		color: #FF2B52 !important;
 	}
 
 	#header.sticky-header #primary-menu > ul > li.menu-item-emphasis > a {
-		background-color: #267DF4;
+		background-color: #FF2B52;
 		color: #FFF;
 	}
 
@@ -187,7 +187,7 @@
 .testimonial-full .flex-next:hover { background-color: transparent !important; }
 
 .testimonial-full .flex-prev:hover i,
-.testimonial-full .flex-next:hover i { color: #267DF4; }
+.testimonial-full .flex-next:hover i { color: #FF2B52; }
 
 
 .owl-stage-outer  { overflow: visible !important; }
@@ -223,11 +223,11 @@
 	margin: 0 5px;
 	opacity: 1;
 	background-color: transparent !important;
-	border: 1px solid #267DF4;
+	border: 1px solid #FF2B52;
 }
 
 .owl-carousel .owl-dots .owl-dot.active span,
-.owl-carousel .owl-dots .owl-dot:hover span { background-color: #267DF4 !important; }
+.owl-carousel .owl-dots .owl-dot:hover span { background-color: #FF2B52 !important; }
 
 
 
@@ -316,7 +316,7 @@
 .pricing-tenure-switcher .pts-switcher label { margin-bottom: 0; }
 
 .pts-switcher input.switch-toggle-round + label:before,
-.pts-switcher input.switch-toggle-round + label { background-color: #267DF4; }
+.pts-switcher input.switch-toggle-round + label { background-color: #FF2B52; }
 
 
 .app-footer-features h5 {
@@ -377,7 +377,7 @@
 	transition: all .3s ease;
 }
 
-.section-more-link:hover { color: #267DF4; }
+.section-more-link:hover { color: #FF2B52; }
 
 .section-more-link:hover i { left: 3px; }
 
